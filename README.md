@@ -5,6 +5,10 @@
 - https://<deployed>/api/get-ticker?product_code=<ProductCode>
 
 ## Usage
-- Google cloud schedules
+- Google cloud schedules(set header: ProjectId)
 - Google cloud run
 - Google cloud firestore
+
+## Envs
+- PORT
+- PROJECTID
