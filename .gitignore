@@ -1,0 +1,5 @@
+.env
+*.csv
+
+.env*
+*_test.go
